@@ -280,6 +280,7 @@ export class _Blank extends React.Component {
                   <Button
                     style={{
                       width: "100%",
+                      height: 130,
                       marginLeft: 0,
                       marginRight: 0,
                       marginTop: 5,
@@ -292,8 +293,8 @@ export class _Blank extends React.Component {
                       textAlign: "center",
                       verticalAlign: "baseline",
                       fontSize: 20,
-                      color: "#000000",
-                      backgroundColor: "#3366FF",
+                      color: "#ffffff",
+                      backgroundColor: "#000000",
                       fontStyle: "normal",
                       fontWeight: "normal",
                       borderColor: "#000000",
